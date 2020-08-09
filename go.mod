@@ -1,3 +1,3 @@
-module github.com/go-spring/go-spring-const
+module github.com/go-spring/spring-const
 
 go 1.12

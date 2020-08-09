@@ -1,1 +1,1 @@
-# go-spring-const
+# spring-const
